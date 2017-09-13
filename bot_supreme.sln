@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bot_supreme", "bot_supreme\bot_supreme.csproj", "{DAB78A0A-4374-4D0E-8F85-20E5F4C86DF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaptchaSolver", "CaptchaSolver\CaptchaSolver.csproj", "{FCB28E4A-6A15-4BE8-80DA-EE124EF498EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		AUTOPILOT|Any CPU = AUTOPILOT|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAB78A0A-4374-4D0E-8F85-20E5F4C86DF0}.AUTOPILOT|Any CPU.ActiveCfg = AUTOPILOT|Any CPU
+		{DAB78A0A-4374-4D0E-8F85-20E5F4C86DF0}.AUTOPILOT|Any CPU.Build.0 = AUTOPILOT|Any CPU
+		{DAB78A0A-4374-4D0E-8F85-20E5F4C86DF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB78A0A-4374-4D0E-8F85-20E5F4C86DF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB78A0A-4374-4D0E-8F85-20E5F4C86DF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB78A0A-4374-4D0E-8F85-20E5F4C86DF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB28E4A-6A15-4BE8-80DA-EE124EF498EA}.AUTOPILOT|Any CPU.ActiveCfg = AUTOPILOT|Any CPU
+		{FCB28E4A-6A15-4BE8-80DA-EE124EF498EA}.AUTOPILOT|Any CPU.Build.0 = AUTOPILOT|Any CPU
+		{FCB28E4A-6A15-4BE8-80DA-EE124EF498EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB28E4A-6A15-4BE8-80DA-EE124EF498EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB28E4A-6A15-4BE8-80DA-EE124EF498EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB28E4A-6A15-4BE8-80DA-EE124EF498EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\SupremeBot_ie\SupremeBot\SupremeBot\CaptchaSolver\bin\Release\CaptchaSolver.exe.config
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\SupremeBot_ie\SupremeBot\SupremeBot\CaptchaSolver\bin\Release\CaptchaSolver.exe
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\SupremeBot_ie\SupremeBot\SupremeBot\CaptchaSolver\bin\Release\CaptchaSolver.pdb
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\SupremeBot_ie\SupremeBot\SupremeBot\CaptchaSolver\bin\Release\WebDriver.dll
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\SupremeBot_ie\SupremeBot\SupremeBot\CaptchaSolver\bin\Release\WebDriver.Support.dll
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\SupremeBot_ie\SupremeBot\SupremeBot\CaptchaSolver\bin\Release\WebDriver.xml
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\SupremeBot_ie\SupremeBot\SupremeBot\CaptchaSolver\bin\Release\WebDriver.Support.xml
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\SupremeBot_ie\SupremeBot\SupremeBot\CaptchaSolver\obj\Release\CaptchaSolver.csprojResolveAssemblyReference.cache
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\SupremeBot_ie\SupremeBot\SupremeBot\CaptchaSolver\obj\Release\CaptchaSolver.Properties.Resources.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\SupremeBot_ie\SupremeBot\SupremeBot\CaptchaSolver\obj\Release\CaptchaSolver.csproj.GenerateResource.Cache
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\SupremeBot_ie\SupremeBot\SupremeBot\CaptchaSolver\obj\Release\CaptchaSolver.exe
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\SupremeBot_ie\SupremeBot\SupremeBot\CaptchaSolver\obj\Release\CaptchaSolver.pdb
+C:\Users\Utilisateur\Documents\bot-supreme\CaptchaSolver\bin\Release\CaptchaSolver.exe
+C:\Users\Utilisateur\Documents\bot-supreme\CaptchaSolver\bin\Release\CaptchaSolver.pdb
+C:\Users\Utilisateur\Documents\bot-supreme\CaptchaSolver\bin\Release\WebDriver.dll
+C:\Users\Utilisateur\Documents\bot-supreme\CaptchaSolver\bin\Release\WebDriver.Support.dll
+C:\Users\Utilisateur\Documents\bot-supreme\CaptchaSolver\bin\Release\WebDriver.xml
+C:\Users\Utilisateur\Documents\bot-supreme\CaptchaSolver\bin\Release\WebDriver.Support.xml
+C:\Users\Utilisateur\Documents\bot-supreme\CaptchaSolver\obj\Release\CaptchaSolver.csprojResolveAssemblyReference.cache
+C:\Users\Utilisateur\Documents\bot-supreme\CaptchaSolver\obj\Release\CaptchaSolver.Properties.Resources.resources
+C:\Users\Utilisateur\Documents\bot-supreme\CaptchaSolver\obj\Release\CaptchaSolver.csproj.GenerateResource.Cache
+C:\Users\Utilisateur\Documents\bot-supreme\CaptchaSolver\obj\Release\CaptchaSolver.exe
+C:\Users\Utilisateur\Documents\bot-supreme\CaptchaSolver\obj\Release\CaptchaSolver.pdb

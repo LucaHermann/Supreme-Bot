@@ -1,0 +1,16 @@
+C:\Users\Utilisateur\Documents\bot-supreme\bot_supreme\bin\Debug\bot_supreme.exe
+C:\Users\Utilisateur\Documents\bot-supreme\bot_supreme\bin\Debug\bot_supreme.pdb
+C:\Users\Utilisateur\Documents\bot-supreme\bot_supreme\bin\Debug\HwidSystem.dll
+C:\Users\Utilisateur\Documents\bot-supreme\bot_supreme\obj\Debug\bot_supreme.Form1.resources
+C:\Users\Utilisateur\Documents\bot-supreme\bot_supreme\obj\Debug\bot_supreme.LoginForm.resources
+C:\Users\Utilisateur\Documents\bot-supreme\bot_supreme\obj\Debug\bot_supreme.ProductForm.resources
+C:\Users\Utilisateur\Documents\bot-supreme\bot_supreme\obj\Debug\bot_supreme.Properties.Resources.resources
+C:\Users\Utilisateur\Documents\bot-supreme\bot_supreme\obj\Debug\bot_supreme.RegisterForm.resources
+C:\Users\Utilisateur\Documents\bot-supreme\bot_supreme\obj\Debug\bot_supreme.SettingsForm.resources
+C:\Users\Utilisateur\Documents\bot-supreme\bot_supreme\obj\Debug\bot_supreme.csproj.GenerateResource.Cache
+C:\Users\Utilisateur\Documents\bot-supreme\bot_supreme\obj\Debug\bot_supreme.exe
+C:\Users\Utilisateur\Documents\bot-supreme\bot_supreme\obj\Debug\bot_supreme.pdb
+C:\Users\Utilisateur\Documents\bot-supreme\bot_supreme\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Utilisateur\Documents\bot-supreme\bot_supreme\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Utilisateur\Documents\bot-supreme\bot_supreme\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Utilisateur\Documents\bot-supreme\bot_supreme\obj\Debug\bot_supreme.csprojResolveAssemblyReference.cache

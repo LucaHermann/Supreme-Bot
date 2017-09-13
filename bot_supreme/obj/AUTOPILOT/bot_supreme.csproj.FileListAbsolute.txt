@@ -1,0 +1,14 @@
+C:\Users\Utilisateur\Documents\bot-supreme\bot_supreme\bin\AUTOPILOT\bot_supreme.exe.config
+C:\Users\Utilisateur\Documents\bot-supreme\bot_supreme\bin\AUTOPILOT\bot_supreme.exe
+C:\Users\Utilisateur\Documents\bot-supreme\bot_supreme\bin\AUTOPILOT\bot_supreme.pdb
+C:\Users\Utilisateur\Documents\bot-supreme\bot_supreme\bin\AUTOPILOT\HwidSystem.dll
+C:\Users\Utilisateur\Documents\bot-supreme\bot_supreme\obj\AUTOPILOT\bot_supreme.csprojResolveAssemblyReference.cache
+C:\Users\Utilisateur\Documents\bot-supreme\bot_supreme\obj\AUTOPILOT\bot_supreme.Form1.resources
+C:\Users\Utilisateur\Documents\bot-supreme\bot_supreme\obj\AUTOPILOT\bot_supreme.LoginForm.resources
+C:\Users\Utilisateur\Documents\bot-supreme\bot_supreme\obj\AUTOPILOT\bot_supreme.ProductForm.resources
+C:\Users\Utilisateur\Documents\bot-supreme\bot_supreme\obj\AUTOPILOT\bot_supreme.Properties.Resources.resources
+C:\Users\Utilisateur\Documents\bot-supreme\bot_supreme\obj\AUTOPILOT\bot_supreme.RegisterForm.resources
+C:\Users\Utilisateur\Documents\bot-supreme\bot_supreme\obj\AUTOPILOT\bot_supreme.SettingsForm.resources
+C:\Users\Utilisateur\Documents\bot-supreme\bot_supreme\obj\AUTOPILOT\bot_supreme.csproj.GenerateResource.Cache
+C:\Users\Utilisateur\Documents\bot-supreme\bot_supreme\obj\AUTOPILOT\bot_supreme.exe
+C:\Users\Utilisateur\Documents\bot-supreme\bot_supreme\obj\AUTOPILOT\bot_supreme.pdb
